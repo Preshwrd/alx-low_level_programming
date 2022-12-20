@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
-*print array -print n element
+*print_array - print n element
 *@a: pointer to array
 *@n: number of array
 *Return: void
