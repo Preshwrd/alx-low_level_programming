@@ -17,6 +17,6 @@ int main(void)
 		s += p;
 		printf("%c", p);
 	}
-	printf("%c", 2772 - sum);
+	printf("%c", 2772 - s);
 	return (0); 
 }
