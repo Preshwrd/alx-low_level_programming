@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
-* int_atoi - convert a string to integer
+* _atoi - convert a string to integer
 * @s: pointing to the string to b converted
 * Return: n * sign
 */
