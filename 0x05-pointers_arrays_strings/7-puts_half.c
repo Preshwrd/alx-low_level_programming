@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio>
+#include <stdio.h>
 /**
 * puts_half -print half of a string
 *@str: print half of the string and if its odd print last n
