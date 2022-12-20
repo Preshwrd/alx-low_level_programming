@@ -1,9 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
-* print array -print n element
-*@a: pointer to a
-*@n: print element of n
+*print array -print n element
+*@a: pointer to array
+*@n: number of array
 */
 void print_array(int *a, int n)
 {
