@@ -4,7 +4,7 @@
 * puts_half -print half of a string
 *@str: print half of the string and if its odd print last n
 */
-void puts_half(char *str);
+void puts_half(char *str)
 {
 	int i, j;
 
