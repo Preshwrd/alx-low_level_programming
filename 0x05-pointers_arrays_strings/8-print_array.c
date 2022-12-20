@@ -4,6 +4,7 @@
 *print array -print n element
 *@a: pointer to array
 *@n: number of array
+*Return: void
 */
 void print_array(int *a, int n)
 {
