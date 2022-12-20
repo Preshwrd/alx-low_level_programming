@@ -3,7 +3,8 @@
 #include <stdio.h>
 /**
 * int_atoi - convert a string to integer
-*@s: pointing to the string to b converted
+* @s: pointing to the string to b converted
+* Return: n * sign
 */
 int _atoi(char *s)
 {
@@ -23,7 +24,7 @@ int _atoi(char *s)
 	if (*temp != '\0')
 	{
 		do {
-				n = n * 10 + (*temp - '0');
+			n = n * 10 + (*temp - '0');
 				temp++;
 			} while (*temp >= '0' && *temp <= '9');
 	}
