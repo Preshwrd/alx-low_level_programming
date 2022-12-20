@@ -2,8 +2,8 @@
 #include <stdio.h>
 /**
 * string - reverse a string
-*@s: reverse the string pointing to s
-*Return: void
+* @s: reverse the string pointing to s
+* Return: rev_string
 */
 void rev_string(char *s)
 {
@@ -16,7 +16,7 @@ void rev_string(char *s)
 		i++;
 }
 	k = 0;
-	j = i -1;
+	j = i - 1;
 	while (k < j)
 	{
 		temp = s[k];
