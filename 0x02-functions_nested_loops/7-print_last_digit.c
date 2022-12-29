@@ -10,6 +10,7 @@ int print_last_digit(int d)
 {
 	int n;
 
+	n = 0;
 	if (d % 10 == n)
 
 		return (n);
