@@ -9,11 +9,10 @@ void print_alphabet(void)
 	char l;
 
 	l = 'a';
-	while (a <= 'z')
+	while (l <= 'z')
 	{
-		_putchar ('a');
-		a++;
+		_putchar ('l');
+		l++;
 	}
 	_putchar ('\n');
-	return (0);
 }
