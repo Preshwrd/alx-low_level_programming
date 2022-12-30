@@ -3,7 +3,7 @@
 *add- add two number and return
 *@i: numbers to add
 *@n: numbers to sum
-* return: the sum of the number
+*Return: the sum of the number
 */
 int add(int i, int n)
 {
