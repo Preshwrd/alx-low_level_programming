@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio.h>
+
 /**
 *_memset -fills memory with constant byte
 *@char *s:where pointers should be returned 
