@@ -6,5 +6,8 @@
 */
 int _sqrt_recursion(int n)
 {
-  if (
+	if (n == 0 || n == 1)
+	return (n);
+
+	else if (n 
 } 
